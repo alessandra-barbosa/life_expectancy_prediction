@@ -1,4 +1,4 @@
-# Prediction of the population's life expectancy
+# Prediction life expectancy
 ![house_rocket](https://github.com/alessandra-barbosa/life_expectancy_prediction/blob/master/img/lifexpectancy.png)
 
 ## Goals
